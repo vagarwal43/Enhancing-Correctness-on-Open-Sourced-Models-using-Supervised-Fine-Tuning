@@ -1,0 +1,5 @@
+Folder Path: /home/dell/GenAI_Self_Corr-2/MATH_Qwen_data/MATH/train/precalculus
+First Accuracy: 0.48666666666666667
+Second Accuracy: 0.0266666666666667
+Improvement: 0.0
+Improvement Indices: []

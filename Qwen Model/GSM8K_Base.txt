@@ -1,0 +1,5 @@
+Folder Path: ./bar_plot_results
+First Accuracy: 0.8266666666666667
+Second Accuracy: 0.0133333333333334
+Improvement: -0.013333333333333308
+Improvement Indices: []
